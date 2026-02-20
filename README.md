@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I'm Theoni, and these are the projects I've worked on in the past few years. Several of them have been recently forked from my other accounts and thus do not accurately reflect contribution history. Most of them include school works but some are from online courses, extracurriculars, and personal works. 
+
 <!--
 **huhduhbuh/huhduhbuh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
